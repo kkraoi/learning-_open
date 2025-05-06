@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+
+# env
+.env
+
+# Basic認証
+.htaccess
+.htpasswd
+
+# 重い動画は除外
+*.mp4
+*.mp3
+*.pdf
